@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dialog-creator/static/css/main.bceb3c8f.chunk.css",
+    "main.js": "/dialog-creator/static/js/main.d5bdd348.chunk.js",
+    "main.js.map": "/dialog-creator/static/js/main.d5bdd348.chunk.js.map",
+    "runtime~main.js": "/dialog-creator/static/js/runtime~main.d0572771.js",
+    "runtime~main.js.map": "/dialog-creator/static/js/runtime~main.d0572771.js.map",
+    "static/js/2.49c28f68.chunk.js": "/dialog-creator/static/js/2.49c28f68.chunk.js",
+    "static/js/2.49c28f68.chunk.js.map": "/dialog-creator/static/js/2.49c28f68.chunk.js.map",
+    "index.html": "/dialog-creator/index.html",
+    "precache-manifest.c9869a2c49dde3f47edb90701301823f.js": "/dialog-creator/precache-manifest.c9869a2c49dde3f47edb90701301823f.js",
+    "service-worker.js": "/dialog-creator/service-worker.js",
+    "static/css/main.bceb3c8f.chunk.css.map": "/dialog-creator/static/css/main.bceb3c8f.chunk.css.map",
+    "static/media/Bean.jpg": "/dialog-creator/static/media/Bean.5907709d.jpg",
+    "static/media/Elfo.jpg": "/dialog-creator/static/media/Elfo.7b03790a.jpg",
+    "static/media/Luci.jpg": "/dialog-creator/static/media/Luci.ef12f0c7.jpg",
+    "static/media/Mertz.jpg": "/dialog-creator/static/media/Mertz.85e71af0.jpg",
+    "static/media/Portrait_Placeholder.png": "/dialog-creator/static/media/Portrait_Placeholder.4788048f.png",
+    "static/media/Zog.jpg": "/dialog-creator/static/media/Zog.d4d56491.jpg"
+  }
+}
