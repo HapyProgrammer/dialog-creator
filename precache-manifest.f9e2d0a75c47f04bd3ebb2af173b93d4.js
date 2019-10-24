@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d98d7d20570debb8680ac9da0864365e",
+    "revision": "fd7f37f9e7ad0645612fcf7094318511",
     "url": "/dialog-creator/index.html"
   },
   {
-    "revision": "83fc53813fffc6a4d3a5",
+    "revision": "881e1c9275604bad328d",
     "url": "/dialog-creator/static/css/main.bceb3c8f.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dialog-creator/static/js/2.49c28f68.chunk.js"
   },
   {
-    "revision": "83fc53813fffc6a4d3a5",
-    "url": "/dialog-creator/static/js/main.b680e055.chunk.js"
+    "revision": "881e1c9275604bad328d",
+    "url": "/dialog-creator/static/js/main.45652289.chunk.js"
   },
   {
     "revision": "89cf8cb3659414f93054",
